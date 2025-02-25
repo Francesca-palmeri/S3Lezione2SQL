@@ -1,3 +1,5 @@
+USE Esercizio2;
+
 SELECT* FROM Products; --ES 1
 
 SELECT * FROM Products WHERE UnitsInStock >= 40; --ES 2
